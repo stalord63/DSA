@@ -1,0 +1,1 @@
+{"name":"Local: subsetsumrecursive","url":"c:\\Users\\adity\\Desktop\\lol\\GEEKSFORGEEKS\\recursion\\subsetsumrecursive.cpp","tests":[{"id":1621835268845,"input":"8\n5\n10\n5\n2\n3\n6","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\adity\\Desktop\\lol\\GEEKSFORGEEKS\\recursion\\subsetsumrecursive.cpp","group":"local","local":true}
