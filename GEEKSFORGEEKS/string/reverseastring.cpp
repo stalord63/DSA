@@ -30,6 +30,7 @@ int main()
 string s1;
 getline(cin,s1);
 int n=s1.length();
+
 reverseword(s1,n);
 cout<<s1;
 
