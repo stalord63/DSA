@@ -12,8 +12,8 @@ for(int i=0;i<strlen(input1);i++){
     }
 }
 if(x==c)
-return "error";
-else return "correct";
+return "correct";
+else return "error";
 
 
 
